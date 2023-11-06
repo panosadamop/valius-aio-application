@@ -1,12 +1,13 @@
 package io.valius.app.domain;
 
 import io.valius.app.domain.enumeration.Language;
-import java.io.Serializable;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.*;
+import jakarta.validation.constraints.NotNull;
+import java.io.Serializable;
+import java.sql.Types;
 import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;
-import org.hibernate.annotations.Type;
+import org.hibernate.annotations.JdbcTypeCode;
 
 /**
  * A MarketingBudget.
