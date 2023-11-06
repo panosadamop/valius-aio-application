@@ -1,9 +1,7 @@
 package io.valius.app.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import jakarta.persistence.Column;
-import jakarta.persistence.EntityListeners;
-import jakarta.persistence.MappedSuperclass;
+import jakarta.persistence.*;
 import java.io.Serializable;
 import java.time.Instant;
 import org.springframework.data.annotation.CreatedBy;
