@@ -10,10 +10,10 @@ import io.valius.app.IntegrationTest;
 import io.valius.app.domain.CompetitorMaturityPhase;
 import io.valius.app.domain.enumeration.Language;
 import io.valius.app.repository.CompetitorMaturityPhaseRepository;
+import jakarta.persistence.EntityManager;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicLong;
-import javax.persistence.EntityManager;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,7 +22,6 @@ import org.springframework.http.MediaType;
 import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.util.Base64Utils;
 
 /**
  * Integration tests for the {@link CompetitorMaturityPhaseResource} REST controller.
