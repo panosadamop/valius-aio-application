@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+    <!--
+        Added the constraints for entity Survey.
+    -->
+    <changeSet id="20231106085235-2" author="jhipster">
+
+        <addForeignKeyConstraint baseColumnNames="user_id"
+                                 baseTableName="survey"
+                                 constraintName="fk_survey__user_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="jhi_user"/>
+
+        <addForeignKeyConstraint baseColumnNames="buying_criteria_weighting_id"
+                                 baseTableName="survey"
+                                 constraintName="fk_survey__buying_criteria_weighting_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="field_buying_criteria_weighting"/>
+
+        <addForeignKeyConstraint baseColumnNames="preferred_purchase_channel_id"
+                                 baseTableName="survey"
+                                 constraintName="fk_survey__preferred_purchase_channel_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="field_preferred_purchase_channel"/>
+
+        <addForeignKeyConstraint baseColumnNames="preferred_communication_channel_id"
+                                 baseTableName="survey"
+                                 constraintName="fk_survey__preferred_communication_channel_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="field_preferred_communication_channel"/>
+    </changeSet>
+</databaseChangeLog>

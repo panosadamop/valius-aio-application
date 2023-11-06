@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "coreProductElements": {
+      "home": {
+        "title": "Core Product Elements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Core Product Elements",
+        "createOrEditLabel": "Create or edit a Core Product Elements",
+        "notFound": "No Core Product Elements found"
+      },
+      "created": "A new Core Product Elements is created with identifier {{ param }}",
+      "updated": "A Core Product Elements is updated with identifier {{ param }}",
+      "deleted": "A Core Product Elements is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Core Product Elements {{ id }}?"
+      },
+      "detail": {
+        "title": "Core Product Elements"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

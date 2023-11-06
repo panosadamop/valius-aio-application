@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldBuyingCriteria": {
+      "home": {
+        "title": "Field Buying Criteria",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Field Buying Criteria",
+        "createOrEditLabel": "Create or edit a Field Buying Criteria",
+        "notFound": "No Field Buying Criteria found"
+      },
+      "created": "A new Field Buying Criteria is created with identifier {{ param }}",
+      "updated": "A Field Buying Criteria is updated with identifier {{ param }}",
+      "deleted": "A Field Buying Criteria is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Field Buying Criteria {{ id }}?"
+      },
+      "detail": {
+        "title": "Field Buying Criteria"
+      },
+      "id": "ID",
+      "buyingCriteria": "Buying Criteria",
+      "json": "Json"
+    }
+  }
+}

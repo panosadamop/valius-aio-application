@@ -1,0 +1,38 @@
+{
+  "valiusaioApp": {
+    "survey": {
+      "home": {
+        "title": "Surveys",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Survey",
+        "createOrEditLabel": "Create or edit a Survey",
+        "notFound": "No Surveys found"
+      },
+      "created": "A new Survey is created with identifier {{ param }}",
+      "updated": "A Survey is updated with identifier {{ param }}",
+      "deleted": "A Survey is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Survey {{ id }}?"
+      },
+      "detail": {
+        "title": "Survey"
+      },
+      "id": "ID",
+      "consumerAssessedBrands": "Consumer Assessed Brands",
+      "criticalSuccessFactors": "Critical Success Factors",
+      "additionalBuyingCriteria": "Additional Buying Criteria",
+      "consumerSegmentGroup": "Consumer Segment Group",
+      "segmentCsf": "Segment Csf",
+      "gender": "Gender",
+      "ageGroup": "Age Group",
+      "location": "Location",
+      "education": "Education",
+      "occupation": "Occupation",
+      "netPromoterScore": "Net Promoter Score",
+      "user": "User",
+      "buyingCriteriaWeighting": "Buying Criteria Weighting",
+      "preferredPurchaseChannel": "Preferred Purchase Channel",
+      "preferredCommunicationChannel": "Preferred Communication Channel"
+    }
+  }
+}

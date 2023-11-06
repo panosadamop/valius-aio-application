@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "attractivenessFactors": {
+      "home": {
+        "title": "Attractiveness Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Attractiveness Factors",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Attractiveness Factors",
+        "notFound": "No Attractiveness Factors found"
+      },
+      "created": "Ένα νέο Attractiveness Factors έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Attractiveness Factors έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Attractiveness Factors έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Attractiveness Factors {{ id }};"
+      },
+      "detail": {
+        "title": "Attractiveness Factors"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

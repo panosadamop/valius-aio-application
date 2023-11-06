@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "competitorMaturityPhase": {
+      "home": {
+        "title": "Competitor Maturity Phases",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Competitor Maturity Phase",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Competitor Maturity Phase",
+        "notFound": "No Competitor Maturity Phases found"
+      },
+      "created": "Ένα νέο Competitor Maturity Phase έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Competitor Maturity Phase έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Competitor Maturity Phase έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Competitor Maturity Phase {{ id }};"
+      },
+      "detail": {
+        "title": "Competitor Maturity Phase"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

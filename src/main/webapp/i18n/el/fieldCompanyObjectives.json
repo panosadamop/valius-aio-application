@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldCompanyObjectives": {
+      "home": {
+        "title": "Field Company Objectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Field Company Objectives",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Field Company Objectives",
+        "notFound": "No Field Company Objectives found"
+      },
+      "created": "Ένα νέο Field Company Objectives έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Field Company Objectives έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Field Company Objectives έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Field Company Objectives {{ id }};"
+      },
+      "detail": {
+        "title": "Field Company Objectives"
+      },
+      "id": "ID",
+      "companyObjectives": "Company Objectives",
+      "json": "Json"
+    }
+  }
+}

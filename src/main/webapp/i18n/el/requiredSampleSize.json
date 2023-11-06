@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "requiredSampleSize": {
+      "home": {
+        "title": "Required Sample Sizes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Required Sample Size",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Required Sample Size",
+        "notFound": "No Required Sample Sizes found"
+      },
+      "created": "Ένα νέο Required Sample Size έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Required Sample Size έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Required Sample Size έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Required Sample Size {{ id }};"
+      },
+      "detail": {
+        "title": "Required Sample Size"
+      },
+      "id": "ID",
+      "value": "Value",
+      "language": "Language"
+    }
+  }
+}

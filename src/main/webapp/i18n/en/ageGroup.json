@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "ageGroup": {
+      "home": {
+        "title": "Age Groups",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Age Group",
+        "createOrEditLabel": "Create or edit a Age Group",
+        "notFound": "No Age Groups found"
+      },
+      "created": "A new Age Group is created with identifier {{ param }}",
+      "updated": "A Age Group is updated with identifier {{ param }}",
+      "deleted": "A Age Group is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Age Group {{ id }}?"
+      },
+      "detail": {
+        "title": "Age Group"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085242",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "field_productype",
+  "fields": [
+    {
+      "fieldName": "productType",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FieldProductype",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "levelOne",
+      "otherEntityRelationshipName": "productType",
+      "relationshipName": "json",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceImpl"
+}

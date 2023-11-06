@@ -1,0 +1,39 @@
+{
+  "valiusaioApp": {
+    "levelTwo": {
+      "home": {
+        "title": "Level Twos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Level Two",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Level Two",
+        "notFound": "No Level Twos found"
+      },
+      "created": "Ένα νέο Level Two έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Level Two έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Level Two έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Level Two {{ id }};"
+      },
+      "detail": {
+        "title": "Level Two"
+      },
+      "id": "ID",
+      "identifier": "Identifier",
+      "targetMarket": "Target Market",
+      "currentMarketSegmentation": "Current Market Segmentation",
+      "segmentName": "Segment Name",
+      "marketSegmentationType": "Market Segmentation Type",
+      "uniqueCharacteristic": "Unique Characteristic",
+      "segmentDescription": "Segment Description",
+      "buyingCriteriaCategory": "Buying Criteria Category",
+      "competitorProductName": "Competitor Product Name",
+      "competitorCompanyName": "Competitor Company Name",
+      "competitorBrandName": "Competitor Brand Name",
+      "competitorProductDescription": "Competitor Product Description",
+      "competitorMaturityPhase": "Competitor Maturity Phase",
+      "competitorCompetitivePosition": "Competitor Competitive Position",
+      "user": "User",
+      "buyingCriteria": "Buying Criteria"
+    }
+  }
+}

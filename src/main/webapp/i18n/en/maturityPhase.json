@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "maturityPhase": {
+      "home": {
+        "title": "Maturity Phases",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Maturity Phase",
+        "createOrEditLabel": "Create or edit a Maturity Phase",
+        "notFound": "No Maturity Phases found"
+      },
+      "created": "A new Maturity Phase is created with identifier {{ param }}",
+      "updated": "A Maturity Phase is updated with identifier {{ param }}",
+      "deleted": "A Maturity Phase is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Maturity Phase {{ id }}?"
+      },
+      "detail": {
+        "title": "Maturity Phase"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "targetMarket": {
+      "home": {
+        "title": "Target Markets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Target Market",
+        "createOrEditLabel": "Create or edit a Target Market",
+        "notFound": "No Target Markets found"
+      },
+      "created": "A new Target Market is created with identifier {{ param }}",
+      "updated": "A Target Market is updated with identifier {{ param }}",
+      "deleted": "A Target Market is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Target Market {{ id }}?"
+      },
+      "detail": {
+        "title": "Target Market"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

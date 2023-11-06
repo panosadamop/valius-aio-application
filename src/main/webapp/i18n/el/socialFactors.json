@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "socialFactors": {
+      "home": {
+        "title": "Social Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Social Factors",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Social Factors",
+        "notFound": "No Social Factors found"
+      },
+      "created": "Ένα νέο Social Factors έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Social Factors έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Social Factors έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Social Factors {{ id }};"
+      },
+      "detail": {
+        "title": "Social Factors"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

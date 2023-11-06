@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "competitiveFactors": {
+      "home": {
+        "title": "Competitive Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Competitive Factors",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Competitive Factors",
+        "notFound": "No Competitive Factors found"
+      },
+      "created": "Ένα νέο Competitive Factors έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Competitive Factors έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Competitive Factors έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Competitive Factors {{ id }};"
+      },
+      "detail": {
+        "title": "Competitive Factors"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

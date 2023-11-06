@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "confidenceLevel": {
+      "home": {
+        "title": "Confidence Levels",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Confidence Level",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Confidence Level",
+        "notFound": "No Confidence Levels found"
+      },
+      "created": "Ένα νέο Confidence Level έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Confidence Level έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Confidence Level έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Confidence Level {{ id }};"
+      },
+      "detail": {
+        "title": "Confidence Level"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

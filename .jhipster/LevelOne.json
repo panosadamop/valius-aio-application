@@ -1,0 +1,161 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085231",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "level_one",
+  "fields": [
+    {
+      "fieldName": "identifier",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "companyName",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "companyLogo",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "image"
+    },
+    {
+      "fieldName": "brandName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "productLogo",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "image"
+    },
+    {
+      "fieldName": "industry",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "organizationType",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "productsServices",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "territory",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "noEmployees",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "revenues",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "mission",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "vision",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "companyValues",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "strategicFocus",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "marketingBudget",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "productDescription",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text"
+    },
+    {
+      "fieldName": "maturityPhase",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "competitivePosition",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "targetAudienceDescription",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "potentialCustomersGroups",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "strengths",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "weaknesses",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "opportunities",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "threats",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "LevelOne",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityField": "login",
+      "otherEntityName": "user",
+      "relationshipName": "user",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "fieldCompanyObjectives",
+      "otherEntityRelationshipName": "json",
+      "relationshipName": "companyObjectives",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "fieldKpi",
+      "otherEntityRelationshipName": "json",
+      "relationshipName": "kpis",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "fieldProductype",
+      "otherEntityRelationshipName": "json",
+      "relationshipName": "productType",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "service": "serviceImpl"
+}

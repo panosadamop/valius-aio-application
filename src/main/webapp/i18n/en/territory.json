@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "territory": {
+      "home": {
+        "title": "Territories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Territory",
+        "createOrEditLabel": "Create or edit a Territory",
+        "notFound": "No Territories found"
+      },
+      "created": "A new Territory is created with identifier {{ param }}",
+      "updated": "A Territory is updated with identifier {{ param }}",
+      "deleted": "A Territory is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Territory {{ id }}?"
+      },
+      "detail": {
+        "title": "Territory"
+      },
+      "id": "ID",
+      "value": "Value",
+      "language": "Language"
+    }
+  }
+}

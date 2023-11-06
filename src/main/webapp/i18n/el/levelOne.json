@@ -1,0 +1,52 @@
+{
+  "valiusaioApp": {
+    "levelOne": {
+      "home": {
+        "title": "Level Ones",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Level One",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Level One",
+        "notFound": "No Level Ones found"
+      },
+      "created": "Ένα νέο Level One έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Level One έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Level One έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Level One {{ id }};"
+      },
+      "detail": {
+        "title": "Level One"
+      },
+      "id": "ID",
+      "identifier": "Identifier",
+      "companyName": "Company Name",
+      "companyLogo": "Company Logo",
+      "brandName": "Brand Name",
+      "productLogo": "Product Logo",
+      "industry": "Industry",
+      "organizationType": "Organization Type",
+      "productsServices": "Products Services",
+      "territory": "Territory",
+      "noEmployees": "No Employees",
+      "revenues": "Revenues",
+      "mission": "Mission",
+      "vision": "Vision",
+      "companyValues": "Company Values",
+      "strategicFocus": "Strategic Focus",
+      "marketingBudget": "Marketing Budget",
+      "productDescription": "Product Description",
+      "maturityPhase": "Maturity Phase",
+      "competitivePosition": "Competitive Position",
+      "targetAudienceDescription": "Target Audience Description",
+      "potentialCustomersGroups": "Potential Customers Groups",
+      "strengths": "Strengths",
+      "weaknesses": "Weaknesses",
+      "opportunities": "Opportunities",
+      "threats": "Threats",
+      "user": "User",
+      "companyObjectives": "Company Objectives",
+      "kpis": "Kpis",
+      "productType": "Product Type"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "companyObjectives": {
+      "home": {
+        "title": "Company Objectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Company Objectives",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Company Objectives",
+        "notFound": "No Company Objectives found"
+      },
+      "created": "Ένα νέο Company Objectives έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Company Objectives έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Company Objectives έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Company Objectives {{ id }};"
+      },
+      "detail": {
+        "title": "Company Objectives"
+      },
+      "id": "ID",
+      "value": "Value",
+      "placeholder": "Placeholder",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "marketSegmentationTypeB2b": {
+      "home": {
+        "title": "Market Segmentation Type B 2 Bs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Market Segmentation Type B 2 B",
+        "createOrEditLabel": "Create or edit a Market Segmentation Type B 2 B",
+        "notFound": "No Market Segmentation Type B 2 Bs found"
+      },
+      "created": "A new Market Segmentation Type B 2 B is created with identifier {{ param }}",
+      "updated": "A Market Segmentation Type B 2 B is updated with identifier {{ param }}",
+      "deleted": "A Market Segmentation Type B 2 B is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Market Segmentation Type B 2 B {{ id }}?"
+      },
+      "detail": {
+        "title": "Market Segmentation Type B 2 B"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

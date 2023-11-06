@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "marketAttractivenessFactorsCategory": {
+      "home": {
+        "title": "Market Attractiveness Factors Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Market Attractiveness Factors Category",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Market Attractiveness Factors Category",
+        "notFound": "No Market Attractiveness Factors Categories found"
+      },
+      "created": "Ένα νέο Market Attractiveness Factors Category έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Market Attractiveness Factors Category έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Market Attractiveness Factors Category έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Market Attractiveness Factors Category {{ id }};"
+      },
+      "detail": {
+        "title": "Market Attractiveness Factors Category"
+      },
+      "id": "ID",
+      "value": "Value",
+      "tab": "Tab",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

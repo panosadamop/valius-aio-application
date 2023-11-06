@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "externalReports": {
+      "home": {
+        "title": "External Reports",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο External Reports",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα External Reports",
+        "notFound": "No External Reports found"
+      },
+      "created": "Ένα νέο External Reports έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα External Reports έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα External Reports έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο External Reports {{ id }};"
+      },
+      "detail": {
+        "title": "External Reports"
+      },
+      "id": "ID",
+      "reportUrl": "Report Url",
+      "description": "Description"
+    }
+  }
+}

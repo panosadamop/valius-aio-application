@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "relatedServiceElements": {
+      "home": {
+        "title": "Related Service Elements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Related Service Elements",
+        "createOrEditLabel": "Create or edit a Related Service Elements",
+        "notFound": "No Related Service Elements found"
+      },
+      "created": "A new Related Service Elements is created with identifier {{ param }}",
+      "updated": "A Related Service Elements is updated with identifier {{ param }}",
+      "deleted": "A Related Service Elements is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Related Service Elements {{ id }}?"
+      },
+      "detail": {
+        "title": "Related Service Elements"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

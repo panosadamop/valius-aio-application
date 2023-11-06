@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "preferredCommunicationChannel": {
+      "home": {
+        "title": "Preferred Communication Channels",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Preferred Communication Channel",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Preferred Communication Channel",
+        "notFound": "No Preferred Communication Channels found"
+      },
+      "created": "Ένα νέο Preferred Communication Channel έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Preferred Communication Channel έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Preferred Communication Channel έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Preferred Communication Channel {{ id }};"
+      },
+      "detail": {
+        "title": "Preferred Communication Channel"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

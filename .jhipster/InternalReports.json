@@ -1,0 +1,15 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085238",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "internal_reports",
+  "fields": [],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "InternalReports",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}

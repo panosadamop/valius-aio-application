@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "statisticalError": {
+      "home": {
+        "title": "Statistical Errors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Statistical Error",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Statistical Error",
+        "notFound": "No Statistical Errors found"
+      },
+      "created": "Ένα νέο Statistical Error έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Statistical Error έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Statistical Error έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Statistical Error {{ id }};"
+      },
+      "detail": {
+        "title": "Statistical Error"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

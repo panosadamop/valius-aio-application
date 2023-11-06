@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "populationSize": {
+      "home": {
+        "title": "Population Sizes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Population Size",
+        "createOrEditLabel": "Create or edit a Population Size",
+        "notFound": "No Population Sizes found"
+      },
+      "created": "A new Population Size is created with identifier {{ param }}",
+      "updated": "A Population Size is updated with identifier {{ param }}",
+      "deleted": "A Population Size is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Population Size {{ id }}?"
+      },
+      "detail": {
+        "title": "Population Size"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

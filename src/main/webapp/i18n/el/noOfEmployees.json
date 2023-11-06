@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "noOfEmployees": {
+      "home": {
+        "title": "No Of Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο No Of Employees",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα No Of Employees",
+        "notFound": "No No Of Employees found"
+      },
+      "created": "Ένα νέο No Of Employees έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα No Of Employees έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα No Of Employees έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο No Of Employees {{ id }};"
+      },
+      "detail": {
+        "title": "No Of Employees"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

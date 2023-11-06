@@ -1,0 +1,32 @@
+{
+  "valiusaioApp": {
+    "levelFour": {
+      "home": {
+        "title": "Level Fours",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Level Four",
+        "createOrEditLabel": "Create or edit a Level Four",
+        "notFound": "No Level Fours found"
+      },
+      "created": "A new Level Four is created with identifier {{ param }}",
+      "updated": "A Level Four is updated with identifier {{ param }}",
+      "deleted": "A Level Four is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Level Four {{ id }}?"
+      },
+      "detail": {
+        "title": "Level Four"
+      },
+      "id": "ID",
+      "identifier": "Identifier",
+      "criticalSuccessFactors": "Critical Success Factors",
+      "populationSize": "Population Size",
+      "statisticalError": "Statistical Error",
+      "confidenceLevel": "Confidence Level",
+      "requiredSampleSize": "Required Sample Size",
+      "estimatedResponseRate": "Estimated Response Rate",
+      "surveyParticipantsNumber": "Survey Participants Number",
+      "user": "User"
+    }
+  }
+}

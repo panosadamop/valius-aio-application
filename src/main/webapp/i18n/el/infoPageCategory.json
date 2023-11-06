@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "infoPageCategory": {
+      "home": {
+        "title": "Info Page Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Info Page Category",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Info Page Category",
+        "notFound": "No Info Page Categories found"
+      },
+      "created": "Ένα νέο Info Page Category έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Info Page Category έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Info Page Category έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Info Page Category {{ id }};"
+      },
+      "detail": {
+        "title": "Info Page Category"
+      },
+      "id": "ID",
+      "value": "Value",
+      "language": "Language"
+    }
+  }
+}

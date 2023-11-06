@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "competitorMaturityPhase": {
+      "home": {
+        "title": "Competitor Maturity Phases",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Competitor Maturity Phase",
+        "createOrEditLabel": "Create or edit a Competitor Maturity Phase",
+        "notFound": "No Competitor Maturity Phases found"
+      },
+      "created": "A new Competitor Maturity Phase is created with identifier {{ param }}",
+      "updated": "A Competitor Maturity Phase is updated with identifier {{ param }}",
+      "deleted": "A Competitor Maturity Phase is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Competitor Maturity Phase {{ id }}?"
+      },
+      "detail": {
+        "title": "Competitor Maturity Phase"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "education": {
+      "home": {
+        "title": "Educations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Education",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Education",
+        "notFound": "No Educations found"
+      },
+      "created": "Ένα νέο Education έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Education έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Education έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Education {{ id }};"
+      },
+      "detail": {
+        "title": "Education"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

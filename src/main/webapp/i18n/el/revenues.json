@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "revenues": {
+      "home": {
+        "title": "Revenues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Revenues",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Revenues",
+        "notFound": "No Revenues found"
+      },
+      "created": "Ένα νέο Revenues έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Revenues έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Revenues έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Revenues {{ id }};"
+      },
+      "detail": {
+        "title": "Revenues"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

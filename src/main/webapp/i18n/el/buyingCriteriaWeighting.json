@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "buyingCriteriaWeighting": {
+      "home": {
+        "title": "Buying Criteria Weightings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Buying Criteria Weighting",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Buying Criteria Weighting",
+        "notFound": "No Buying Criteria Weightings found"
+      },
+      "created": "Ένα νέο Buying Criteria Weighting έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Buying Criteria Weighting έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Buying Criteria Weighting έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Buying Criteria Weighting {{ id }};"
+      },
+      "detail": {
+        "title": "Buying Criteria Weighting"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

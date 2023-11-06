@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "confidenceLevel": {
+      "home": {
+        "title": "Confidence Levels",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Confidence Level",
+        "createOrEditLabel": "Create or edit a Confidence Level",
+        "notFound": "No Confidence Levels found"
+      },
+      "created": "A new Confidence Level is created with identifier {{ param }}",
+      "updated": "A Confidence Level is updated with identifier {{ param }}",
+      "deleted": "A Confidence Level is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Confidence Level {{ id }}?"
+      },
+      "detail": {
+        "title": "Confidence Level"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

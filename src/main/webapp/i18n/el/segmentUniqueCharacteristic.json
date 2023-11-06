@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "segmentUniqueCharacteristic": {
+      "home": {
+        "title": "Segment Unique Characteristics",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Segment Unique Characteristic",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Segment Unique Characteristic",
+        "notFound": "No Segment Unique Characteristics found"
+      },
+      "created": "Ένα νέο Segment Unique Characteristic έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Segment Unique Characteristic έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Segment Unique Characteristic έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Segment Unique Characteristic {{ id }};"
+      },
+      "detail": {
+        "title": "Segment Unique Characteristic"
+      },
+      "id": "ID",
+      "value": "Value",
+      "category": "Category",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

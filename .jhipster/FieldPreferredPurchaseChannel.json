@@ -1,0 +1,27 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085246",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "field_preferred_purchase_channel",
+  "fields": [
+    {
+      "fieldName": "preferredPurchaseChannel",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FieldPreferredPurchaseChannel",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "survey",
+      "otherEntityRelationshipName": "preferredPurchaseChannel",
+      "relationshipName": "json",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceImpl"
+}

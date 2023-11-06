@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "intangibleElements": {
+      "home": {
+        "title": "Intangible Elements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Intangible Elements",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Intangible Elements",
+        "notFound": "No Intangible Elements found"
+      },
+      "created": "Ένα νέο Intangible Elements έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Intangible Elements έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Intangible Elements έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Intangible Elements {{ id }};"
+      },
+      "detail": {
+        "title": "Intangible Elements"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

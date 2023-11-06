@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "socialFactors": {
+      "home": {
+        "title": "Social Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Social Factors",
+        "createOrEditLabel": "Create or edit a Social Factors",
+        "notFound": "No Social Factors found"
+      },
+      "created": "A new Social Factors is created with identifier {{ param }}",
+      "updated": "A Social Factors is updated with identifier {{ param }}",
+      "deleted": "A Social Factors is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Social Factors {{ id }}?"
+      },
+      "detail": {
+        "title": "Social Factors"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

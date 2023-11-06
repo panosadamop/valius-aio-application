@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldBuyingCriteriaWeighting": {
+      "home": {
+        "title": "Field Buying Criteria Weightings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Field Buying Criteria Weighting",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Field Buying Criteria Weighting",
+        "notFound": "No Field Buying Criteria Weightings found"
+      },
+      "created": "Ένα νέο Field Buying Criteria Weighting έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Field Buying Criteria Weighting έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Field Buying Criteria Weighting έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Field Buying Criteria Weighting {{ id }};"
+      },
+      "detail": {
+        "title": "Field Buying Criteria Weighting"
+      },
+      "id": "ID",
+      "buyingCriteriaWeighting": "Buying Criteria Weighting",
+      "json": "Json"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "maturityPhase": {
+      "home": {
+        "title": "Maturity Phases",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Maturity Phase",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Maturity Phase",
+        "notFound": "No Maturity Phases found"
+      },
+      "created": "Ένα νέο Maturity Phase έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Maturity Phase έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Maturity Phase έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Maturity Phase {{ id }};"
+      },
+      "detail": {
+        "title": "Maturity Phase"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

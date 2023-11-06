@@ -1,0 +1,23 @@
+{
+  "valiusaioApp": {
+    "internalReports": {
+      "home": {
+        "title": "Internal Reports",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Internal Reports",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Internal Reports",
+        "notFound": "No Internal Reports found"
+      },
+      "created": "Ένα νέο Internal Reports έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Internal Reports έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Internal Reports έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Internal Reports {{ id }};"
+      },
+      "detail": {
+        "title": "Internal Reports"
+      },
+      "id": "ID"
+    }
+  }
+}

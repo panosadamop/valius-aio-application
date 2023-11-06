@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "marketSegmentationType": {
+      "home": {
+        "title": "Market Segmentation Types",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Market Segmentation Type",
+        "createOrEditLabel": "Create or edit a Market Segmentation Type",
+        "notFound": "No Market Segmentation Types found"
+      },
+      "created": "A new Market Segmentation Type is created with identifier {{ param }}",
+      "updated": "A Market Segmentation Type is updated with identifier {{ param }}",
+      "deleted": "A Market Segmentation Type is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Market Segmentation Type {{ id }}?"
+      },
+      "detail": {
+        "title": "Market Segmentation Type"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

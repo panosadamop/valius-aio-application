@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "companyObjectives": {
+      "home": {
+        "title": "Company Objectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Company Objectives",
+        "createOrEditLabel": "Create or edit a Company Objectives",
+        "notFound": "No Company Objectives found"
+      },
+      "created": "A new Company Objectives is created with identifier {{ param }}",
+      "updated": "A Company Objectives is updated with identifier {{ param }}",
+      "deleted": "A Company Objectives is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Company Objectives {{ id }}?"
+      },
+      "detail": {
+        "title": "Company Objectives"
+      },
+      "id": "ID",
+      "value": "Value",
+      "placeholder": "Placeholder",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "strategicFocus": {
+      "home": {
+        "title": "Strategic Foci",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Strategic Focus",
+        "createOrEditLabel": "Create or edit a Strategic Focus",
+        "notFound": "No Strategic Foci found"
+      },
+      "created": "A new Strategic Focus is created with identifier {{ param }}",
+      "updated": "A Strategic Focus is updated with identifier {{ param }}",
+      "deleted": "A Strategic Focus is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Strategic Focus {{ id }}?"
+      },
+      "detail": {
+        "title": "Strategic Focus"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

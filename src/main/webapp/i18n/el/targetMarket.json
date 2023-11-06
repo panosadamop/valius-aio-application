@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "targetMarket": {
+      "home": {
+        "title": "Target Markets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Target Market",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Target Market",
+        "notFound": "No Target Markets found"
+      },
+      "created": "Ένα νέο Target Market έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Target Market έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Target Market έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Target Market {{ id }};"
+      },
+      "detail": {
+        "title": "Target Market"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

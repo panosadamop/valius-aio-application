@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "noOfEmployees": {
+      "home": {
+        "title": "No Of Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new No Of Employees",
+        "createOrEditLabel": "Create or edit a No Of Employees",
+        "notFound": "No No Of Employees found"
+      },
+      "created": "A new No Of Employees is created with identifier {{ param }}",
+      "updated": "A No Of Employees is updated with identifier {{ param }}",
+      "deleted": "A No Of Employees is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete No Of Employees {{ id }}?"
+      },
+      "detail": {
+        "title": "No Of Employees"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "populationSize": {
+      "home": {
+        "title": "Population Sizes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Population Size",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Population Size",
+        "notFound": "No Population Sizes found"
+      },
+      "created": "Ένα νέο Population Size έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Population Size έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Population Size έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Population Size {{ id }};"
+      },
+      "detail": {
+        "title": "Population Size"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

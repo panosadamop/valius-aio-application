@@ -1,0 +1,41 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085307",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "market_segmentation_type_b_2_b_categories",
+  "fields": [
+    {
+      "fieldName": "value",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "text"
+    },
+    {
+      "fieldName": "placeholder",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "uniqueCharacteristic",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "Language",
+      "fieldValidateRules": ["required"],
+      "fieldValues": "ENGLISH,GREEK"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "MarketSegmentationTypeB2bCategories",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}

@@ -1,0 +1,27 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085244",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "field_attractiveness_factors",
+  "fields": [
+    {
+      "fieldName": "attractivenessFactors",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FieldAttractivenessFactors",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "levelThree",
+      "otherEntityRelationshipName": "attractivenessFactors",
+      "relationshipName": "json",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceImpl"
+}

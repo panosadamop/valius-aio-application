@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "marketingBudget": {
+      "home": {
+        "title": "Marketing Budgets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Marketing Budget",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Marketing Budget",
+        "notFound": "No Marketing Budgets found"
+      },
+      "created": "Ένα νέο Marketing Budget έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Marketing Budget έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Marketing Budget έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Marketing Budget {{ id }};"
+      },
+      "detail": {
+        "title": "Marketing Budget"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

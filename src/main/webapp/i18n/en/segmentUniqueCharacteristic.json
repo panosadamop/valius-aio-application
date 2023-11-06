@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "segmentUniqueCharacteristic": {
+      "home": {
+        "title": "Segment Unique Characteristics",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Segment Unique Characteristic",
+        "createOrEditLabel": "Create or edit a Segment Unique Characteristic",
+        "notFound": "No Segment Unique Characteristics found"
+      },
+      "created": "A new Segment Unique Characteristic is created with identifier {{ param }}",
+      "updated": "A Segment Unique Characteristic is updated with identifier {{ param }}",
+      "deleted": "A Segment Unique Characteristic is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Segment Unique Characteristic {{ id }}?"
+      },
+      "detail": {
+        "title": "Segment Unique Characteristic"
+      },
+      "id": "ID",
+      "value": "Value",
+      "category": "Category",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

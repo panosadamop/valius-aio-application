@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "marketingBudget": {
+      "home": {
+        "title": "Marketing Budgets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Marketing Budget",
+        "createOrEditLabel": "Create or edit a Marketing Budget",
+        "notFound": "No Marketing Budgets found"
+      },
+      "created": "A new Marketing Budget is created with identifier {{ param }}",
+      "updated": "A Marketing Budget is updated with identifier {{ param }}",
+      "deleted": "A Marketing Budget is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Marketing Budget {{ id }}?"
+      },
+      "detail": {
+        "title": "Marketing Budget"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

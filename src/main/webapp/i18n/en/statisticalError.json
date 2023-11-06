@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "statisticalError": {
+      "home": {
+        "title": "Statistical Errors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Statistical Error",
+        "createOrEditLabel": "Create or edit a Statistical Error",
+        "notFound": "No Statistical Errors found"
+      },
+      "created": "A new Statistical Error is created with identifier {{ param }}",
+      "updated": "A Statistical Error is updated with identifier {{ param }}",
+      "deleted": "A Statistical Error is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Statistical Error {{ id }}?"
+      },
+      "detail": {
+        "title": "Statistical Error"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

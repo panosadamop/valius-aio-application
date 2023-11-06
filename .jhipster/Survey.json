@@ -1,0 +1,96 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085235",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "survey",
+  "fields": [
+    {
+      "fieldName": "consumerAssessedBrands",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "criticalSuccessFactors",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "additionalBuyingCriteria",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "consumerSegmentGroup",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "segmentCsf",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "gender",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "ageGroup",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "location",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "education",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "occupation",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "netPromoterScore",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Survey",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityField": "login",
+      "otherEntityName": "user",
+      "relationshipName": "user",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "fieldBuyingCriteriaWeighting",
+      "otherEntityRelationshipName": "json",
+      "relationshipName": "buyingCriteriaWeighting",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "fieldPreferredPurchaseChannel",
+      "otherEntityRelationshipName": "json",
+      "relationshipName": "preferredPurchaseChannel",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "fieldPreferredCommunicationChannel",
+      "otherEntityRelationshipName": "json",
+      "relationshipName": "preferredCommunicationChannel",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "service": "serviceImpl"
+}

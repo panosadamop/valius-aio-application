@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "occupation": {
+      "home": {
+        "title": "Occupations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Occupation",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Occupation",
+        "notFound": "No Occupations found"
+      },
+      "created": "Ένα νέο Occupation έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Occupation έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Occupation έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Occupation {{ id }};"
+      },
+      "detail": {
+        "title": "Occupation"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

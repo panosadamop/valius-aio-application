@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "occupation": {
+      "home": {
+        "title": "Occupations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Occupation",
+        "createOrEditLabel": "Create or edit a Occupation",
+        "notFound": "No Occupations found"
+      },
+      "created": "A new Occupation is created with identifier {{ param }}",
+      "updated": "A Occupation is updated with identifier {{ param }}",
+      "deleted": "A Occupation is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Occupation {{ id }}?"
+      },
+      "detail": {
+        "title": "Occupation"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

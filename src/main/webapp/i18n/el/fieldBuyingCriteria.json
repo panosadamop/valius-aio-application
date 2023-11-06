@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldBuyingCriteria": {
+      "home": {
+        "title": "Field Buying Criteria",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Field Buying Criteria",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Field Buying Criteria",
+        "notFound": "No Field Buying Criteria found"
+      },
+      "created": "Ένα νέο Field Buying Criteria έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Field Buying Criteria έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Field Buying Criteria έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Field Buying Criteria {{ id }};"
+      },
+      "detail": {
+        "title": "Field Buying Criteria"
+      },
+      "id": "ID",
+      "buyingCriteria": "Buying Criteria",
+      "json": "Json"
+    }
+  }
+}

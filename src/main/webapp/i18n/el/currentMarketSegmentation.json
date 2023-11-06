@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "currentMarketSegmentation": {
+      "home": {
+        "title": "Current Market Segmentations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Current Market Segmentation",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Current Market Segmentation",
+        "notFound": "No Current Market Segmentations found"
+      },
+      "created": "Ένα νέο Current Market Segmentation έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Current Market Segmentation έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Current Market Segmentation έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Current Market Segmentation {{ id }};"
+      },
+      "detail": {
+        "title": "Current Market Segmentation"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

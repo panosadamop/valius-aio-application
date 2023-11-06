@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "territory": {
+      "home": {
+        "title": "Territories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Territory",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Territory",
+        "notFound": "No Territories found"
+      },
+      "created": "Ένα νέο Territory έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Territory έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Territory έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Territory {{ id }};"
+      },
+      "detail": {
+        "title": "Territory"
+      },
+      "id": "ID",
+      "value": "Value",
+      "language": "Language"
+    }
+  }
+}

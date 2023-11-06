@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldProductype": {
+      "home": {
+        "title": "Field Productypes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Field Productype",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Field Productype",
+        "notFound": "No Field Productypes found"
+      },
+      "created": "Ένα νέο Field Productype έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Field Productype έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Field Productype έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Field Productype {{ id }};"
+      },
+      "detail": {
+        "title": "Field Productype"
+      },
+      "id": "ID",
+      "productType": "Product Type",
+      "json": "Json"
+    }
+  }
+}

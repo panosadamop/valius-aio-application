@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "requiredSampleSize": {
+      "home": {
+        "title": "Required Sample Sizes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Required Sample Size",
+        "createOrEditLabel": "Create or edit a Required Sample Size",
+        "notFound": "No Required Sample Sizes found"
+      },
+      "created": "A new Required Sample Size is created with identifier {{ param }}",
+      "updated": "A Required Sample Size is updated with identifier {{ param }}",
+      "deleted": "A Required Sample Size is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Required Sample Size {{ id }}?"
+      },
+      "detail": {
+        "title": "Required Sample Size"
+      },
+      "id": "ID",
+      "value": "Value",
+      "language": "Language"
+    }
+  }
+}

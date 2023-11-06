@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+    <!--
+        Added the constraints for entity LevelOne.
+    -->
+    <changeSet id="20231106085231-2" author="jhipster">
+
+        <addForeignKeyConstraint baseColumnNames="user_id"
+                                 baseTableName="level_one"
+                                 constraintName="fk_level_one__user_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="jhi_user"/>
+
+        <addForeignKeyConstraint baseColumnNames="company_objectives_id"
+                                 baseTableName="level_one"
+                                 constraintName="fk_level_one__company_objectives_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="field_company_objectives"/>
+
+        <addForeignKeyConstraint baseColumnNames="kpis_id"
+                                 baseTableName="level_one"
+                                 constraintName="fk_level_one__kpis_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="field_kpi"/>
+
+        <addForeignKeyConstraint baseColumnNames="product_type_id"
+                                 baseTableName="level_one"
+                                 constraintName="fk_level_one__product_type_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="field_productype"/>
+    </changeSet>
+</databaseChangeLog>

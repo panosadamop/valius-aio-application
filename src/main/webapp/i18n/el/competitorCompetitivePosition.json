@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "competitorCompetitivePosition": {
+      "home": {
+        "title": "Competitor Competitive Positions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Competitor Competitive Position",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Competitor Competitive Position",
+        "notFound": "No Competitor Competitive Positions found"
+      },
+      "created": "Ένα νέο Competitor Competitive Position έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Competitor Competitive Position έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Competitor Competitive Position έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Competitor Competitive Position {{ id }};"
+      },
+      "detail": {
+        "title": "Competitor Competitive Position"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

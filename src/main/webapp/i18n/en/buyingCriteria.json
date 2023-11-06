@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "buyingCriteria": {
+      "home": {
+        "title": "Buying Criteria",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Buying Criteria",
+        "createOrEditLabel": "Create or edit a Buying Criteria",
+        "notFound": "No Buying Criteria found"
+      },
+      "created": "A new Buying Criteria is created with identifier {{ param }}",
+      "updated": "A Buying Criteria is updated with identifier {{ param }}",
+      "deleted": "A Buying Criteria is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Buying Criteria {{ id }}?"
+      },
+      "detail": {
+        "title": "Buying Criteria"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "kpis": {
+      "home": {
+        "title": "Kpis",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Kpis",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Kpis",
+        "notFound": "No Kpis found"
+      },
+      "created": "Ένα νέο Kpis έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Kpis έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Kpis έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Kpis {{ id }};"
+      },
+      "detail": {
+        "title": "Kpis"
+      },
+      "id": "ID",
+      "value": "Value",
+      "checkBoxValue": "Check Box Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

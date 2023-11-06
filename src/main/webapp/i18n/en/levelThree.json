@@ -1,0 +1,32 @@
+{
+  "valiusaioApp": {
+    "levelThree": {
+      "home": {
+        "title": "Level Threes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Level Three",
+        "createOrEditLabel": "Create or edit a Level Three",
+        "notFound": "No Level Threes found"
+      },
+      "created": "A new Level Three is created with identifier {{ param }}",
+      "updated": "A Level Three is updated with identifier {{ param }}",
+      "deleted": "A Level Three is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Level Three {{ id }}?"
+      },
+      "detail": {
+        "title": "Level Three"
+      },
+      "id": "ID",
+      "identifier": "Identifier",
+      "mafCategory": "Maf Category",
+      "weightingMaf": "Weighting Maf",
+      "lowAttractivenessRangeMaf": "Low Attractiveness Range Maf",
+      "mediumAttractivenessRangeMaf": "Medium Attractiveness Range Maf",
+      "highAttractivenessRangeMaf": "High Attractiveness Range Maf",
+      "segmentScoreMaf": "Segment Score Maf",
+      "user": "User",
+      "attractivenessFactors": "Attractiveness Factors"
+    }
+  }
+}

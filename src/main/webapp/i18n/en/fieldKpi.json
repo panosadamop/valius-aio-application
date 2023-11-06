@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldKpi": {
+      "home": {
+        "title": "Field Kpis",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Field Kpi",
+        "createOrEditLabel": "Create or edit a Field Kpi",
+        "notFound": "No Field Kpis found"
+      },
+      "created": "A new Field Kpi is created with identifier {{ param }}",
+      "updated": "A Field Kpi is updated with identifier {{ param }}",
+      "deleted": "A Field Kpi is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Field Kpi {{ id }}?"
+      },
+      "detail": {
+        "title": "Field Kpi"
+      },
+      "id": "ID",
+      "kpis": "Kpis",
+      "json": "Json"
+    }
+  }
+}

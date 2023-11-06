@@ -1,0 +1,27 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085243",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "field_buying_criteria",
+  "fields": [
+    {
+      "fieldName": "buyingCriteria",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FieldBuyingCriteria",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "levelTwo",
+      "otherEntityRelationshipName": "buyingCriteria",
+      "relationshipName": "json",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceImpl"
+}

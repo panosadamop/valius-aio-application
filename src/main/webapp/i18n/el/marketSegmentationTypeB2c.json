@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "marketSegmentationTypeB2c": {
+      "home": {
+        "title": "Market Segmentation Type B 2 Cs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Market Segmentation Type B 2 C",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Market Segmentation Type B 2 C",
+        "notFound": "No Market Segmentation Type B 2 Cs found"
+      },
+      "created": "Ένα νέο Market Segmentation Type B 2 C έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Market Segmentation Type B 2 C έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Market Segmentation Type B 2 C έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Market Segmentation Type B 2 C {{ id }};"
+      },
+      "detail": {
+        "title": "Market Segmentation Type B 2 C"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

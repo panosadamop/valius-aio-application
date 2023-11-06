@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "buyingCriteriaWeighting": {
+      "home": {
+        "title": "Buying Criteria Weightings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Buying Criteria Weighting",
+        "createOrEditLabel": "Create or edit a Buying Criteria Weighting",
+        "notFound": "No Buying Criteria Weightings found"
+      },
+      "created": "A new Buying Criteria Weighting is created with identifier {{ param }}",
+      "updated": "A Buying Criteria Weighting is updated with identifier {{ param }}",
+      "deleted": "A Buying Criteria Weighting is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Buying Criteria Weighting {{ id }}?"
+      },
+      "detail": {
+        "title": "Buying Criteria Weighting"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

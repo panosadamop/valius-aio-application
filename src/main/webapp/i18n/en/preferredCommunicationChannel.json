@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "preferredCommunicationChannel": {
+      "home": {
+        "title": "Preferred Communication Channels",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Preferred Communication Channel",
+        "createOrEditLabel": "Create or edit a Preferred Communication Channel",
+        "notFound": "No Preferred Communication Channels found"
+      },
+      "created": "A new Preferred Communication Channel is created with identifier {{ param }}",
+      "updated": "A Preferred Communication Channel is updated with identifier {{ param }}",
+      "deleted": "A Preferred Communication Channel is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Preferred Communication Channel {{ id }}?"
+      },
+      "detail": {
+        "title": "Preferred Communication Channel"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

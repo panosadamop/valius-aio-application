@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldKpi": {
+      "home": {
+        "title": "Field Kpis",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Field Kpi",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Field Kpi",
+        "notFound": "No Field Kpis found"
+      },
+      "created": "Ένα νέο Field Kpi έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Field Kpi έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Field Kpi έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Field Kpi {{ id }};"
+      },
+      "detail": {
+        "title": "Field Kpi"
+      },
+      "id": "ID",
+      "kpis": "Kpis",
+      "json": "Json"
+    }
+  }
+}

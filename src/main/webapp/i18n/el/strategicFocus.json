@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "strategicFocus": {
+      "home": {
+        "title": "Strategic Foci",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Strategic Focus",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Strategic Focus",
+        "notFound": "No Strategic Foci found"
+      },
+      "created": "Ένα νέο Strategic Focus έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Strategic Focus έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Strategic Focus έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Strategic Focus {{ id }};"
+      },
+      "detail": {
+        "title": "Strategic Focus"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

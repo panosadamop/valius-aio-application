@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "segmentScoreMAF": {
+      "home": {
+        "title": "Segment Score MAFS",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Segment Score MAF",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Segment Score MAF",
+        "notFound": "No Segment Score MAFS found"
+      },
+      "created": "Ένα νέο Segment Score MAF έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Segment Score MAF έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Segment Score MAF έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Segment Score MAF {{ id }};"
+      },
+      "detail": {
+        "title": "Segment Score MAF"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

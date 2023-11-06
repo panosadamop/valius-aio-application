@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldCompanyObjectives": {
+      "home": {
+        "title": "Field Company Objectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Field Company Objectives",
+        "createOrEditLabel": "Create or edit a Field Company Objectives",
+        "notFound": "No Field Company Objectives found"
+      },
+      "created": "A new Field Company Objectives is created with identifier {{ param }}",
+      "updated": "A Field Company Objectives is updated with identifier {{ param }}",
+      "deleted": "A Field Company Objectives is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Field Company Objectives {{ id }}?"
+      },
+      "detail": {
+        "title": "Field Company Objectives"
+      },
+      "id": "ID",
+      "companyObjectives": "Company Objectives",
+      "json": "Json"
+    }
+  }
+}

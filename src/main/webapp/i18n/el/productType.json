@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "productType": {
+      "home": {
+        "title": "Product Types",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Product Type",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Product Type",
+        "notFound": "No Product Types found"
+      },
+      "created": "Ένα νέο Product Type έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Product Type έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Product Type έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Product Type {{ id }};"
+      },
+      "detail": {
+        "title": "Product Type"
+      },
+      "id": "ID",
+      "value": "Value",
+      "checkBoxValue": "Check Box Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

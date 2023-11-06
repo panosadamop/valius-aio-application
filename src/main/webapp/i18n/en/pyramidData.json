@@ -1,0 +1,28 @@
+{
+  "valiusaioApp": {
+    "pyramidData": {
+      "home": {
+        "title": "Pyramid Data",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Pyramid Data",
+        "createOrEditLabel": "Create or edit a Pyramid Data",
+        "notFound": "No Pyramid Data found"
+      },
+      "created": "A new Pyramid Data is created with identifier {{ param }}",
+      "updated": "A Pyramid Data is updated with identifier {{ param }}",
+      "deleted": "A Pyramid Data is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Pyramid Data {{ id }}?"
+      },
+      "detail": {
+        "title": "Pyramid Data"
+      },
+      "id": "ID",
+      "identifier": "Identifier",
+      "category": "Category",
+      "value": "Value",
+      "order": "Order",
+      "img": "Img"
+    }
+  }
+}

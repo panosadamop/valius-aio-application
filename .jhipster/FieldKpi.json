@@ -1,0 +1,27 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085241",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "field_kpi",
+  "fields": [
+    {
+      "fieldName": "kpis",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FieldKpi",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "levelOne",
+      "otherEntityRelationshipName": "kpis",
+      "relationshipName": "json",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceImpl"
+}

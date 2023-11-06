@@ -1,0 +1,11 @@
+id;value;description;language
+1;Designer;../fake-data/blob/hipster.txt;GREEK
+2;multi-state teal;../fake-data/blob/hipster.txt;ENGLISH
+3;action-items;../fake-data/blob/hipster.txt;ENGLISH
+4;Intranet;../fake-data/blob/hipster.txt;ENGLISH
+5;reintermediate XSS;../fake-data/blob/hipster.txt;ENGLISH
+6;card Fresh encompassing;../fake-data/blob/hipster.txt;GREEK
+7;metrics;../fake-data/blob/hipster.txt;GREEK
+8;teal;../fake-data/blob/hipster.txt;ENGLISH
+9;payment;../fake-data/blob/hipster.txt;GREEK
+10;implement engineer;../fake-data/blob/hipster.txt;ENGLISH

@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "economicFactors": {
+      "home": {
+        "title": "Economic Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Economic Factors",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Economic Factors",
+        "notFound": "No Economic Factors found"
+      },
+      "created": "Ένα νέο Economic Factors έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Economic Factors έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Economic Factors έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Economic Factors {{ id }};"
+      },
+      "detail": {
+        "title": "Economic Factors"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

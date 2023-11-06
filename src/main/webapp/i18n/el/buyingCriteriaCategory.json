@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "buyingCriteriaCategory": {
+      "home": {
+        "title": "Buying Criteria Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Buying Criteria Category",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Buying Criteria Category",
+        "notFound": "No Buying Criteria Categories found"
+      },
+      "created": "Ένα νέο Buying Criteria Category έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Buying Criteria Category έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Buying Criteria Category έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Buying Criteria Category {{ id }};"
+      },
+      "detail": {
+        "title": "Buying Criteria Category"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

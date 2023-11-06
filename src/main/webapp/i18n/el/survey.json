@@ -1,0 +1,38 @@
+{
+  "valiusaioApp": {
+    "survey": {
+      "home": {
+        "title": "Surveys",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Survey",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Survey",
+        "notFound": "No Surveys found"
+      },
+      "created": "Ένα νέο Survey έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Survey έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Survey έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Survey {{ id }};"
+      },
+      "detail": {
+        "title": "Survey"
+      },
+      "id": "ID",
+      "consumerAssessedBrands": "Consumer Assessed Brands",
+      "criticalSuccessFactors": "Critical Success Factors",
+      "additionalBuyingCriteria": "Additional Buying Criteria",
+      "consumerSegmentGroup": "Consumer Segment Group",
+      "segmentCsf": "Segment Csf",
+      "gender": "Gender",
+      "ageGroup": "Age Group",
+      "location": "Location",
+      "education": "Education",
+      "occupation": "Occupation",
+      "netPromoterScore": "Net Promoter Score",
+      "user": "User",
+      "buyingCriteriaWeighting": "Buying Criteria Weighting",
+      "preferredPurchaseChannel": "Preferred Purchase Channel",
+      "preferredCommunicationChannel": "Preferred Communication Channel"
+    }
+  }
+}

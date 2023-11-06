@@ -1,0 +1,39 @@
+{
+  "valiusaioApp": {
+    "levelTwo": {
+      "home": {
+        "title": "Level Twos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Level Two",
+        "createOrEditLabel": "Create or edit a Level Two",
+        "notFound": "No Level Twos found"
+      },
+      "created": "A new Level Two is created with identifier {{ param }}",
+      "updated": "A Level Two is updated with identifier {{ param }}",
+      "deleted": "A Level Two is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Level Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Level Two"
+      },
+      "id": "ID",
+      "identifier": "Identifier",
+      "targetMarket": "Target Market",
+      "currentMarketSegmentation": "Current Market Segmentation",
+      "segmentName": "Segment Name",
+      "marketSegmentationType": "Market Segmentation Type",
+      "uniqueCharacteristic": "Unique Characteristic",
+      "segmentDescription": "Segment Description",
+      "buyingCriteriaCategory": "Buying Criteria Category",
+      "competitorProductName": "Competitor Product Name",
+      "competitorCompanyName": "Competitor Company Name",
+      "competitorBrandName": "Competitor Brand Name",
+      "competitorProductDescription": "Competitor Product Description",
+      "competitorMaturityPhase": "Competitor Maturity Phase",
+      "competitorCompetitivePosition": "Competitor Competitive Position",
+      "user": "User",
+      "buyingCriteria": "Buying Criteria"
+    }
+  }
+}

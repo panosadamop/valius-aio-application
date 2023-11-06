@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "infoPageCategory": {
+      "home": {
+        "title": "Info Page Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Info Page Category",
+        "createOrEditLabel": "Create or edit a Info Page Category",
+        "notFound": "No Info Page Categories found"
+      },
+      "created": "A new Info Page Category is created with identifier {{ param }}",
+      "updated": "A Info Page Category is updated with identifier {{ param }}",
+      "deleted": "A Info Page Category is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Info Page Category {{ id }}?"
+      },
+      "detail": {
+        "title": "Info Page Category"
+      },
+      "id": "ID",
+      "value": "Value",
+      "language": "Language"
+    }
+  }
+}

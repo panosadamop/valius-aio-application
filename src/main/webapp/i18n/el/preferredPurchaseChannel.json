@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "preferredPurchaseChannel": {
+      "home": {
+        "title": "Preferred Purchase Channels",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Preferred Purchase Channel",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Preferred Purchase Channel",
+        "notFound": "No Preferred Purchase Channels found"
+      },
+      "created": "Ένα νέο Preferred Purchase Channel έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Preferred Purchase Channel έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Preferred Purchase Channel έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Preferred Purchase Channel {{ id }};"
+      },
+      "detail": {
+        "title": "Preferred Purchase Channel"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

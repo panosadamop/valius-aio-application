@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "attractivenessFactors": {
+      "home": {
+        "title": "Attractiveness Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Attractiveness Factors",
+        "createOrEditLabel": "Create or edit a Attractiveness Factors",
+        "notFound": "No Attractiveness Factors found"
+      },
+      "created": "A new Attractiveness Factors is created with identifier {{ param }}",
+      "updated": "A Attractiveness Factors is updated with identifier {{ param }}",
+      "deleted": "A Attractiveness Factors is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Attractiveness Factors {{ id }}?"
+      },
+      "detail": {
+        "title": "Attractiveness Factors"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "valiusaioApp": {
+    "kpis": {
+      "home": {
+        "title": "Kpis",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Kpis",
+        "createOrEditLabel": "Create or edit a Kpis",
+        "notFound": "No Kpis found"
+      },
+      "created": "A new Kpis is created with identifier {{ param }}",
+      "updated": "A Kpis is updated with identifier {{ param }}",
+      "deleted": "A Kpis is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Kpis {{ id }}?"
+      },
+      "detail": {
+        "title": "Kpis"
+      },
+      "id": "ID",
+      "value": "Value",
+      "checkBoxValue": "Check Box Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

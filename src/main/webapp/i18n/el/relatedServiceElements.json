@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "relatedServiceElements": {
+      "home": {
+        "title": "Related Service Elements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Related Service Elements",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Related Service Elements",
+        "notFound": "No Related Service Elements found"
+      },
+      "created": "Ένα νέο Related Service Elements έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Related Service Elements έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Related Service Elements έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Related Service Elements {{ id }};"
+      },
+      "detail": {
+        "title": "Related Service Elements"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

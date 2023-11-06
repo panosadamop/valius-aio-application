@@ -1,0 +1,423 @@
+entity LevelOne {
+    identifier String required,
+    companyName String required,
+    companyLogo ImageBlob,
+    brandName String,
+    productLogo ImageBlob,
+    industry String,
+    organizationType String,
+    productsServices TextBlob required,
+    territory String,
+    noEmployees String,
+    revenues String,
+    mission TextBlob required,
+    vision TextBlob required,
+    companyValues TextBlob required,
+    strategicFocus String,
+    marketingBudget String,
+    productDescription TextBlob,
+    maturityPhase String,
+    competitivePosition String,
+    targetAudienceDescription TextBlob required,
+    potentialCustomersGroups String required,
+    strengths String required,
+    weaknesses String required,
+    opportunities String required,
+    threats String required
+}
+
+entity LevelTwo {
+    identifier String required,
+    targetMarket String required,
+    currentMarketSegmentation String required,
+    segmentName String required,
+    marketSegmentationType String,
+    uniqueCharacteristic String,
+    segmentDescription TextBlob required,
+    buyingCriteriaCategory String required,
+    competitorProductName String required,
+    competitorCompanyName String required,
+    competitorBrandName String required,
+    competitorProductDescription TextBlob required,
+    competitorMaturityPhase String required,
+    competitorCompetitivePosition String required
+}
+
+entity LevelThree{
+    identifier String required,
+    mafCategory String required,
+    weightingMaf String required,
+    lowAttractivenessRangeMaf String required,
+    mediumAttractivenessRangeMaf String required,
+    highAttractivenessRangeMaf String required,
+    segmentScoreMaf String
+}
+
+entity LevelFour{
+    identifier String required,
+    criticalSuccessFactors String required,
+    populationSize String required,
+    statisticalError String required,
+    confidenceLevel String required,
+    requiredSampleSize String required,
+    estimatedResponseRate String required,
+    surveyParticipantsNumber Integer required
+}
+
+entity Survey{
+    consumerAssessedBrands String required,
+    criticalSuccessFactors String required,
+    additionalBuyingCriteria String required,
+    consumerSegmentGroup String required,
+    segmentCsf String required,
+    gender String required,
+    ageGroup String required,
+    location String required,
+    education String required,
+    occupation String required,
+    netPromoterScore String required
+}
+
+/*Array of 5 elements, each one is array of objects*/
+entity PyramidData{
+    identifier String required,
+    category Integer required,
+    value String required,
+    order Integer required,
+    img ImageBlob
+}
+
+entity ExternalReports{
+    reportUrl String required,
+    description TextBlob
+}
+
+entity InternalReports{
+}
+
+entity InformationPages{
+    title String required,
+    subTitle String,
+    description TextBlob required
+}
+
+entity  FieldCompanyObjectives{
+    companyObjectives String
+}
+
+entity  FieldKpi {
+    kpis String
+}
+
+entity  FieldProductype {
+    productType String
+}
+
+entity  FieldBuyingCriteria {
+    buyingCriteria String
+}
+
+entity  FieldAttractivenessFactors {
+    attractivenessFactors String
+}
+
+entity  FieldBuyingCriteriaWeighting {
+    buyingCriteriaWeighting String
+}
+
+entity  FieldPreferredPurchaseChannel {
+    preferredPurchaseChannel String
+}
+
+entity  FieldPreferredCommunicationChannel {
+    preferredCommunicationChannel String
+}
+
+entity InfoPageCategory{
+    value String required,
+    language Language required
+}
+entity RequiredSampleSize{
+    value String required,
+    language Language required
+}
+entity Territory{
+    value String required,
+    language Language required
+}
+entity Industry{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Country{
+    country String required,
+    language Language required
+}
+entity TargetMarket{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity OrganisationType{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity NoOfEmployees{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Revenues{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity CompanyObjectives{
+    value String required,
+    placeholder String,
+    description TextBlob,
+    language Language required
+}
+entity StrategicFocus{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Kpis{
+    value String required,
+    checkBoxValue Boolean required,
+    description TextBlob,
+    language Language required
+}
+entity MarketingBudget{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MaturityPhase{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity CompetitivePosition{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity ProductType{
+    value String required,
+    checkBoxValue Boolean required,
+    description TextBlob,
+    language Language required
+}
+entity CurrentMarketSegmentation{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketSegmentationTypeB2b{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketSegmentationTypeB2bAlt{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketSegmentationTypeB2bCategories{
+    value String required,
+    description TextBlob,
+    placeholder String,
+    uniqueCharacteristic String required,
+    language Language required
+}
+entity MarketSegmentationTypeB2c{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketSegmentationTypeB2cAlt{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketSegmentationTypeB2cCategories{
+    value String required,
+    description TextBlob,
+    placeholder String,
+    uniqueCharacteristic String required,
+    language Language required
+}
+entity BuyingCriteria{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity BuyingCriteriaCategory{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketSegmentationType{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity SegmentUniqueCharacteristic{
+    value String required,
+    category String required,
+    description TextBlob,
+    language Language required
+}
+entity CoreProductElements{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity RelatedServiceElements{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity IntangibleElements{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity CompetitorMaturityPhase{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity CompetitorCompetitivePosition{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity EconomicFactors{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity CompetitiveFactors{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity SocialFactors{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity PopulationSize{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity StatisticalError{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity ConfidenceLevel{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity BuyingCriteriaWeighting{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity AgeGroup{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Occupation{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity PreferredCommunicationChannel{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Location{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Education{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity PreferredPurchaseChannel{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity NetPromoterScore{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity MarketAttractivenessFactorsCategory{
+    value String required,
+    tab Integer required,
+    description TextBlob,
+    language Language required
+}
+entity SegmentScoreMAF{
+    value String required,
+    description TextBlob,
+    language Language required
+
+}
+entity AttractivenessFactors{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+entity Category{
+    value String required,
+    description TextBlob,
+    language Language required
+}
+
+enum Gender{
+    MALE, FEMALE, OTHER
+}
+enum YesNo{
+    YES, NO
+}
+enum Language {
+    ENGLISH, GREEK
+}
+
+//Relationships
+relationship ManyToOne {
+    LevelOne{user(login)} to User,
+    LevelOne{companyObjectives} to FieldCompanyObjectives{json},
+    LevelOne{kpis} to FieldKpi{json},
+    LevelOne{productType} to FieldProductype{json},
+    LevelTwo{user(login)} to User,
+    LevelTwo{buyingCriteria} to FieldBuyingCriteria{json},
+    LevelThree{user(login)} to User,
+    LevelThree{attractivenessFactors} to FieldAttractivenessFactors{json},
+    LevelFour{user(login)} to User,
+    Survey{user(login)} to User,
+    Survey{buyingCriteriaWeighting} to FieldBuyingCriteriaWeighting{json},
+    Survey{preferredPurchaseChannel} to FieldPreferredPurchaseChannel{json},
+    Survey{preferredCommunicationChannel} to FieldPreferredCommunicationChannel{json}
+}
+
+//Pagination options
+paginate all with infinite-scroll
+// Set service options to all
+service all with serviceImpl

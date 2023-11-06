@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "competitivePosition": {
+      "home": {
+        "title": "Competitive Positions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Competitive Position",
+        "createOrEditLabel": "Create or edit a Competitive Position",
+        "notFound": "No Competitive Positions found"
+      },
+      "created": "A new Competitive Position is created with identifier {{ param }}",
+      "updated": "A Competitive Position is updated with identifier {{ param }}",
+      "deleted": "A Competitive Position is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Competitive Position {{ id }}?"
+      },
+      "detail": {
+        "title": "Competitive Position"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

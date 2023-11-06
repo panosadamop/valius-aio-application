@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "informationPages": {
+      "home": {
+        "title": "Information Pages",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Information Pages",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Information Pages",
+        "notFound": "No Information Pages found"
+      },
+      "created": "Ένα νέο Information Pages έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Information Pages έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Information Pages έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Information Pages {{ id }};"
+      },
+      "detail": {
+        "title": "Information Pages"
+      },
+      "id": "ID",
+      "title": "Title",
+      "subTitle": "Sub Title",
+      "description": "Description"
+    }
+  }
+}

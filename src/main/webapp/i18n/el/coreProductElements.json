@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "coreProductElements": {
+      "home": {
+        "title": "Core Product Elements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Core Product Elements",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Core Product Elements",
+        "notFound": "No Core Product Elements found"
+      },
+      "created": "Ένα νέο Core Product Elements έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Core Product Elements έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Core Product Elements έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Core Product Elements {{ id }};"
+      },
+      "detail": {
+        "title": "Core Product Elements"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

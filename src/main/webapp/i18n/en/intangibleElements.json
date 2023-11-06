@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "intangibleElements": {
+      "home": {
+        "title": "Intangible Elements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Intangible Elements",
+        "createOrEditLabel": "Create or edit a Intangible Elements",
+        "notFound": "No Intangible Elements found"
+      },
+      "created": "A new Intangible Elements is created with identifier {{ param }}",
+      "updated": "A Intangible Elements is updated with identifier {{ param }}",
+      "deleted": "A Intangible Elements is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Intangible Elements {{ id }}?"
+      },
+      "detail": {
+        "title": "Intangible Elements"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

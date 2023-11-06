@@ -1,0 +1,27 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106085247",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "field_preferred_communication_channel",
+  "fields": [
+    {
+      "fieldName": "preferredCommunicationChannel",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FieldPreferredCommunicationChannel",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "survey",
+      "otherEntityRelationshipName": "preferredCommunicationChannel",
+      "relationshipName": "json",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceImpl"
+}

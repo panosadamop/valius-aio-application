@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "segmentScoreMAF": {
+      "home": {
+        "title": "Segment Score MAFS",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Segment Score MAF",
+        "createOrEditLabel": "Create or edit a Segment Score MAF",
+        "notFound": "No Segment Score MAFS found"
+      },
+      "created": "A new Segment Score MAF is created with identifier {{ param }}",
+      "updated": "A Segment Score MAF is updated with identifier {{ param }}",
+      "deleted": "A Segment Score MAF is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Segment Score MAF {{ id }}?"
+      },
+      "detail": {
+        "title": "Segment Score MAF"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

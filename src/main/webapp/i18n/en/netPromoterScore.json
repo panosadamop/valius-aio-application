@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "netPromoterScore": {
+      "home": {
+        "title": "Net Promoter Scores",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Net Promoter Score",
+        "createOrEditLabel": "Create or edit a Net Promoter Score",
+        "notFound": "No Net Promoter Scores found"
+      },
+      "created": "A new Net Promoter Score is created with identifier {{ param }}",
+      "updated": "A Net Promoter Score is updated with identifier {{ param }}",
+      "deleted": "A Net Promoter Score is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Net Promoter Score {{ id }}?"
+      },
+      "detail": {
+        "title": "Net Promoter Score"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

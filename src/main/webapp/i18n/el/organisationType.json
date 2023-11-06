@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "organisationType": {
+      "home": {
+        "title": "Organisation Types",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Organisation Type",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Organisation Type",
+        "notFound": "No Organisation Types found"
+      },
+      "created": "Ένα νέο Organisation Type έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Organisation Type έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Organisation Type έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Organisation Type {{ id }};"
+      },
+      "detail": {
+        "title": "Organisation Type"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

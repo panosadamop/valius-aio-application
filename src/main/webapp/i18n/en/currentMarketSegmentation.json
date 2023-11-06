@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "currentMarketSegmentation": {
+      "home": {
+        "title": "Current Market Segmentations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Current Market Segmentation",
+        "createOrEditLabel": "Create or edit a Current Market Segmentation",
+        "notFound": "No Current Market Segmentations found"
+      },
+      "created": "A new Current Market Segmentation is created with identifier {{ param }}",
+      "updated": "A Current Market Segmentation is updated with identifier {{ param }}",
+      "deleted": "A Current Market Segmentation is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Current Market Segmentation {{ id }}?"
+      },
+      "detail": {
+        "title": "Current Market Segmentation"
+      },
+      "id": "ID",
+      "value": "Value",
+      "description": "Description",
+      "language": "Language"
+    }
+  }
+}

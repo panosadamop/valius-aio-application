@@ -1,0 +1,26 @@
+{
+  "valiusaioApp": {
+    "informationPages": {
+      "home": {
+        "title": "Information Pages",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Information Pages",
+        "createOrEditLabel": "Create or edit a Information Pages",
+        "notFound": "No Information Pages found"
+      },
+      "created": "A new Information Pages is created with identifier {{ param }}",
+      "updated": "A Information Pages is updated with identifier {{ param }}",
+      "deleted": "A Information Pages is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Information Pages {{ id }}?"
+      },
+      "detail": {
+        "title": "Information Pages"
+      },
+      "id": "ID",
+      "title": "Title",
+      "subTitle": "Sub Title",
+      "description": "Description"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "valiusaioApp": {
+    "fieldAttractivenessFactors": {
+      "home": {
+        "title": "Field Attractiveness Factors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Field Attractiveness Factors",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Field Attractiveness Factors",
+        "notFound": "No Field Attractiveness Factors found"
+      },
+      "created": "Ένα νέο Field Attractiveness Factors έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Field Attractiveness Factors έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Field Attractiveness Factors έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Field Attractiveness Factors {{ id }};"
+      },
+      "detail": {
+        "title": "Field Attractiveness Factors"
+      },
+      "id": "ID",
+      "attractivenessFactors": "Attractiveness Factors",
+      "json": "Json"
+    }
+  }
+}
